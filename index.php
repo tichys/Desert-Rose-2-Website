@@ -1,0 +1,87 @@
+	<div class="overlay"></div>
+	<div class="scanline"></div>
+<div class="wrapper">	
+<div class="content clearfix">
+		
+		<header class="site clearfix">
+		<link rel="stylesheet" href="css/style.css">
+		<div class="col one">
+			<img src="https://raw.githubusercontent.com/tichys/Fallout13Site/master/images/pip.png" alt="591 Industries" width="740" height="729" id="logo-v" />
+		</div>
+			<div class="col two">
+		</div>
+			<div class="col two">
+        <p style="text-align:center"><h3>Desert Rose 2: Back to the Wasteland <br /></h3></p>
+				<p>----------------------------------------</p>
+				<p>Robco Industries Unified Operating System</p>
+				<p>copyright 2075-2077 robco industries</p>
+				<p>- Server 227 -</p>
+			</div>
+		</header>
+		
+		<nav class="site clear">
+			<ul>
+				<li><a href="index.php" title="">Return Home</a></li>
+				<li><a href="http://desertrosefallout13.boards.net" title="">Forums</a></li>
+				<li><a href="/Wiki/index.php" title="">Wiki</a></li>
+				<li><a href="faq.php" title="">FAQ</a></li>
+        <li class="nav-item">
+        <a class="nav-link" href="https://discord.gg/rhPpXwy">Discord</a>
+  </li>
+			</ul>
+		</nav>
+				
+		<p>System Administrator Integrated Message System (SAIMS)</p>
+		<p>System Administrator (SYSADM) - Ziii</p>
+
+		<p class="clear"><br /></p>
+    <div class="col-xs-12">
+      <h2 id="sub-header">War. War never changes</h2>
+      <div class="well">
+        <img id="img-main" class="img-responsive" src="http://vignette2.wikia.nocookie.net/fallout/images/b/b6/Fallout_3_PA.jpg/revision/latest?cb=20110415193822" alt="BOS soldier over looking Washington monument">
+        <div id="caption">Unnamed Brotherhood of Steel soldier exploring the ruins of DC overlooking the once great Washington monument </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class=" col-xs-8 col-xs-offset-2">
+      <h3 id="list-header">A Breif History of the Pre-War Fallout Universe:</h3>
+      <ul id="list">
+        <li><strong>April 2052:</strong> The <a href=http://fallout.wikia.com/wiki/Resource_Wars>Resource Wars</a> begin</li>
+        <li><strong> January 2054:</strong> Construction of the Vaults for <a href=http://fallout.wikia.com/wiki/Project_Safehouse>Project Safehouse</a> begins</li>
+        <li><strong>Winter 2066:</strong> China invades Alaska starting the <a href=http://fallout.wikia.com/wiki/Battle_of_Anchorage>Battle of Anchorage</a> </li>
+        <li><strong>January 2077:</strong> The Battle of Anchorage ends with Alaska back in US hands </li>
+        <li><strong>October 23, 2077:</strong> 12:03am(EST) The <a href=http://fallout.wikia.com/wiki/Great_War>Great War</a> begins</li>
+        <li><strong>October 23, 2077:</strong> 9:47am(EST) The "Great War" ends sending the world into Nuclear winter</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class=" col-xs-8 col-xs-offset-2">
+      <h3 id="list-header">History of the Fallout Universe:</h3>
+      <ul id="list2">
+        <li><strong>December 5, 2161:</strong> The events of <a href=http://fallout.wikia.com/wiki/Portal:Fallout>"Fallout"</a> begin with the Vault Dweller leaving Vault 13 in search for a replacement water chip</li>
+        <li><strong>May 10, 2162:</strong> The events of "Fallout" conclude as the Vault Dweller returns to Vault 13.</li>
+        <li><strong>July 5, 2241:</strong>The events of <a href=http://fallout.wikia.com/wiki/Portal:Fallout_2>"Fallout 2"</a> begin as "The Chosen One" prepares for his journey to find a "Garden of Eden Creation Kit"</li>
+        <li><strong>Fall of 2242</strong> "Fallout 2" concludes with the Chosen One returning to his home</li>
+        <li><strong>August 17, 2277:</strong>The events of <a href=http://fallout.wikia.com/wiki/Portal:Fallout_3>"Fallout 3"</a> begins as the Lone Wanderer leaves Vault 101 in search of his father</li>
+        <li><strong>2278:</strong> The events of "Fallout 3" conluced with the Lone Wanderer having saved the Capital Wastland.</li>
+        <li><strong>October 19, 2281:</strong> The events of <a href=http://fallout.wikia.com/wiki/Portal:Fallout:_New_Vegas> "Fallout: New Vegas"</a> begin with the Courier setting out across the Mojave to seek revenge.</li>
+        <li><strong>2282:</strong> The events of Fallout:New Vegas conclude with the Courier having decided the Fate of the Mojave.</li>
+        <li><strong>October 23,2287:</strong> The events of <a href=http://fallout.wikia.com/wiki/Portal:Fallout_4>"Fallout 4"</a> begin, the Sole Survivor leaves Vault 111 in search of their son Shaun, traveling across the Commmonwealth.</li>
+        <li><strong>2288:</strong> The events of Fallout 4 conclude, the Sole Survivor having decided the fate of the Commonwealth.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-8 col-xs-offset-2">
+      <blockquote>
+        <p id="quote"> "Since the dawn of human kind, when our ancestors first discovered the killing power of rock and bone, blood has been spilled in the name of everything: from God to justice to simple, psychotic rage." </p>
+        <footer><cite> "Fallout 3" Opening Narration.</cite></footer>
+        </bockquote>
+    </div>
+    <div class="col-xs-8 col-xs-offset-2">
+      <p id="info-link"> For more infomation about the Fallout universe check out the <a href=http://fallout.wikia.com/wiki/Fallout_Wiki>Fallout Wiki</a>.</p>
+		
+
+</div>
